@@ -1,0 +1,28 @@
+html {
+    background-color: yellow;
+   
+}
+h1 , h2 {
+    background-color: grey;
+    border: 4px solid black;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+img {
+    background-color: grey;
+    border: 4px solid black;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+ 
+section {
+    background-color: grey;
+    border: 4px solid black;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 20px;
+
+}
